@@ -2,7 +2,7 @@
 
 A modern, privacy-focused file conversion tool built with React and TypeScript. Convert PDFs to text, extract text from images using OCR, and generate PDFs from text - all in your browser with complete privacy.
 
-## Live: ![live-link](convertkt.netlify.app)
+## Live: ![live-link](https://www.convertkt.netlify.app/)
 
 ![ConvertKit Preview](https://img.shields.io/badge/Status-Live-brightgreen)
 ![React](https://img.shields.io/badge/React-18.3.1-blue)
