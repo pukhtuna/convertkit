@@ -26,7 +26,7 @@ A modern, privacy-focused file conversion tool built with React and TypeScript. 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/convertkit.git
+git clone https://github.com/pukhtuna/convertkit.git
 
 # Navigate to the project directory
 cd convertkit
